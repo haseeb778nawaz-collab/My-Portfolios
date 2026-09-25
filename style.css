@@ -55,7 +55,7 @@ ul {
 
 .header {
     position: fixed;
-    width: 100%;
+    width: 90%;
     top: 0;
     z-index: 1000;
     transition: 0.3s;
@@ -161,7 +161,7 @@ ul {
 .lanyard {
     position: absolute;
     top: 0;
-    left: 50%;
+    left: 42%;
     transform: translateX(-50%);
     z-index: 1;
 }
@@ -231,12 +231,13 @@ ul {
 
 .id-card {
 
-    width: 360px;
+    width: 332px;
     min-height: 465px;
 
     position: absolute;
 
     top: 105px;
+       left: 7px;
 
     border-radius: 28px;
 
